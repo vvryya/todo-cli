@@ -55,4 +55,4 @@ todo-cli/
 
 ### Varvara Pavlova
 
-(GitHub Profile)[https://github.com/vvryya]
+[GitHub Profile](https://github.com/vvryya)
