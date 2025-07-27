@@ -46,8 +46,7 @@ stop
 todo-cli/
 ├── todo.py            # Main CLI logic
 ├── tasks.json         # Data file (created at runtime)
-├── README.md
-└── requirements.txt   # Empty or minimal
+└── README.md
 ```
 
 --- 
