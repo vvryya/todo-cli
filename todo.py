@@ -59,7 +59,7 @@ while com != "stop":
     elif command[0] == "add" and len(command) > 1:
         addTask(" ".join(command[1:]))
     elif command[0] == "remove" and len(command) == 2:
-        removeTask(int(command[1]))
+        removeTask(int(command[1]) - 1)
     else: 
         helpPage()
 
