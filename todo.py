@@ -48,8 +48,7 @@ Commands:
 "add 'task description'" - add task
 "list" - list all tasks
 "remove task_number" - remove task at index
-"stop" - stop
-""")
+"stop" - stop""")
     
 while com != "stop":
     command = com.split(' ')

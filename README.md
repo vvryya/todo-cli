@@ -27,17 +27,7 @@ No external dependencies required
 
 ## 👀Usage
 
-```bash
-python todo.py
-
-add buy groceries
-
-list
-
-remove 1
-
-stop
-```
+![usage](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczMyOTF3dm55MWllZnoyaXk1d3Z1dGM5MWZ5ODIwZmNhanRvdWwwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MLpzvYgzYecCPS4OVz/giphy.gif)
 ---
 
 ## 📂Project Structure
